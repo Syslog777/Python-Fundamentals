@@ -5,7 +5,7 @@ For each section in this course you must write out your own example, which is es
 Completion of this course grants you whatever effot and work you put into it.
 
 ### The Intro 
-- Keywords & Identifiers: https://colab.research.google.com/drive/1jWtjwGHGr1R09e__vrzTQZw_-J02E4hK?usp=sharing
+- [Keywords & Identifiers](https://colab.research.google.com/drive/1jWtjwGHGr1R09e__vrzTQZw_-J02E4hK?usp=sharing) 
 - Statements & Comments
 - Variables
 - Data types
