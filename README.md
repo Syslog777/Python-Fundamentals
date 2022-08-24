@@ -1,5 +1,6 @@
 # Python-Fundamentals
-Learn the core of Python, then you can branch out wherever you want.
+A rogue-like python course with little to no hand-holding. 
+
 ### The Intro 
 - Keywords & Idrentifiers
 - Statements & Comments
