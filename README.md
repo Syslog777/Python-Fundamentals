@@ -1,5 +1,8 @@
 # Python-Fundamentals
 A rogue-like python course with little to no hand-holding. 
+Skill is earned and can never be given. 
+For each section in this course you must write out your own example, which is essential what I did.
+Completion of this course grants you whatever effot and work you put into it.
 
 ### The Intro 
 - Keywords & Idrentifiers
