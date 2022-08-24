@@ -25,3 +25,31 @@ Learn the core of Python, then you can branch out wherever you want.
 - Modules
 - Packages
 ### Datatypes
+- Numbers
+- List
+- Tuple
+- String
+- Set
+- Dictionary
+### Files
+- File operation
+- Dictionary
+- Exception Handling
+- User-defined
+### Object & Class
+- OOP
+- Classes
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation 
+### Advanced Python
+- Iterators
+- Generators
+- Closures
+- Decorators
+- Properties
+- RegEx
+### Date and time
+- Date time module
+- Sleep module
