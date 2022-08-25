@@ -1,8 +1,7 @@
 # Python-Fundamentals
 A python course with little to no hand-holding. 
 Skill is earned and can never be given. 
-For each section in this course you must write out your own example, which is essentially what I did.
-Completion of this course grants you whatever effort and work you put into it.
+
 
 ### The Intro 
 - [Keywords & Identifiers](https://colab.research.google.com/drive/1jWtjwGHGr1R09e__vrzTQZw_-J02E4hK?usp=sharing) 
